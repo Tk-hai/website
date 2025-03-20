@@ -1,0 +1,30 @@
+html {
+	background-color: #DFA7A7;
+}
+
+.menu{
+	font-family: Nova Flat;
+	position: absolute;
+	top: 35px;
+	width: 1000px;
+}
+
+.menu a {
+  	float: left;
+  	padding: 12px;
+  	text-decoration:none;
+  	text-align: center;
+  	background-blend-mode: normal;
+}
+
+.menu a:link, .menu a:visited {
+	color: white;
+}
+
+.menu a:focus, .menu a:hover, .menu a:active {
+	color: green;
+}
+
+.banner {
+	align-content: center;
+}
